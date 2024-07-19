@@ -1,6 +1,7 @@
 # Flutter-Mobile-Recipe-Recommendation-Application
 Mobile Recipe Suggestion Application, Flutter-based, available on IOS and Android platforms compatible, allowing users to choose the food ingredients they have or the food they prefer.It is a mobile application that allows finding and accessing recipes by category.
 The code written for each page of the application is located in the "Pages" folder inside the "lib" directory. Below are the screenshots of each page sequentially.
+![2e4da126-41e8-4abd-9765-3df9fe67d796](https://github.com/user-attachments/assets/68785498-4a4d-416e-9f06-1be828311d52)
 
                                      -->introdiction_screen page
                                      ![image](https://github.com/yagmur-kolanc/Flutter/assets/65070514/5cbc6a00-052e-493d-9277-20adcf6a49b2)
