@@ -4,7 +4,7 @@ The code written for each page of the application is located in the "Pages" fold
 
 
                                      -->introdiction_screen page
-                                     ![image](https://github.com/user-attachments/assets/7529464f-4df1-405e-a6b0-bfaf2d7d5f38)
+                                   ![Screenshot_19-7-2024_194824_](https://github.com/user-attachments/assets/dfe460e6-32eb-4e34-b268-6227e895a953)
 
 
                                      --> introdiction_screen page
